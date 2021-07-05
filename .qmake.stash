@@ -1,0 +1,42 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1929
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 192930037
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    D:\\Qt\\Qt5.15.2\\5.15.2\\msvc2019_64\\include \
+    D:\\Qt\\Qt5.15.2\\5.15.2\\msvc2019_64\\include\\QtCore \
+    D:\\Qt\\Qt5.15.2\\5.15.2\\msvc2019_64\\include\\QtSql \
+    D:\\Qt\\Qt5.15.2\\5.15.2\\msvc2019_64\\include\\QtGui \
+    "               D:\\Qt\\Qt5.15.2\\5.15.2\\msvc2019_64\\include\\QtNetwork" \
+    D:\\Qt\\Qt5.15.2\\5.15.2\\msvc2019_64\\include\\QtWidgets \
+    D:\\Qt\\Qt5.15.2\\5.15.2\\msvc2019_64\\include\\QtSerialPort \
+    "D:\\Program Files\\MVTec\\HALCON-19.11-Progress\\include" \
+    "D:\\Program Files\\MVTec\\HALCON-19.11-Progress\\include\\halconcpp" \
+    "D:\\Program Files\\MVTec\\HALCON-19.11-Progress\\include\\hdevengine" \
+    D:\\local\\boost_1_76_0 \
+    D:\\TPL\\mtf\\x64\\inc \
+    D:\\TPL\\mss\\x64\\inc \
+    D:\\TPL\\msc\\x64\\inc \
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\VC\\Tools\\MSVC\\14.29.30037\\ATLMFC\\include" \
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\VC\\Tools\\MSVC\\14.29.30037\\include" \
+    "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\include\\um" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.19041.0\\ucrt" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.19041.0\\shared" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.19041.0\\um" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.19041.0\\winrt" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.19041.0\\cppwinrt"
+QMAKE_CXX.LIBDIRS = \
+    D:\\Qt\\Qt5.15.2\\5.15.2\\msvc2019_64\\lib \
+    "D:\\Program Files\\MVTec\\HALCON-19.11-Progress\\lib\\x64-win64" \
+    D:\\local\\boost_1_76_0\\lib64-msvc-14.2 \
+    D:\\TPL\\mtf\\x64\\lib \
+    D:\\TPL\\mss\\x64\\lib \
+    D:\\TPL\\msc\\x64\\lib \
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\VC\\Tools\\MSVC\\14.29.30037\\ATLMFC\\lib\\x64" \
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\VC\\Tools\\MSVC\\14.29.30037\\lib\\x64" \
+    "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\lib\\um\\x64" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.19041.0\\ucrt\\x64" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.19041.0\\um\\x64"
